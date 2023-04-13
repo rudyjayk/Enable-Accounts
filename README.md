@@ -1,5 +1,5 @@
 # Enable-Accounts
-## Recursive Function
+## Looping
 This script is ran in a way that you are able to re-enter a username if you feel that you have entered in the initial username wrong.
 
 ## Checks for confirmation
