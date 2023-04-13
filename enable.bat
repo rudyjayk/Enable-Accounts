@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy Bypass -File \\helpdesk\Apps\~Rudy\Scripts\Enabling_ADAccounts\enable.ps1
